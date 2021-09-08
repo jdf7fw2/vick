@@ -8,7 +8,7 @@
 点击DownloadZip即可
 
 # 下载方式2
-移步至国内下载（需要登录gitee）
+网速太慢可移步至国内下载（需要登录gitee）
 https://gitee.com/jdf7fw2/vick
 
 # 严正声明
