@@ -1,14 +1,18 @@
 # vick
 定制开发、bug反馈、功能建议 请提交issue\
-正版大小6356KB\
+正版大小6332KB\
 [2122203E22243E2127273E22293F292020213C292020223C292020233C292020243C29202025828B2145B]
 
-# 下载方式1
-点击上面的绿色按钮"Code"
-点击DownloadZip即可
+# 下载方式
+国外：点击上面的绿色按钮"Code"，点击DownloadZip即可\
+国内：点击上面的橙色按钮“克隆/下载”，点击下载ZIP即可
 
-# 下载方式2
-网速太慢可移步至国内下载（需要登录gitee）
+# 下载地址
+国外免登录下载 \
+https://github.com/jdf7fw2/vick \
+https://hub.fastgit.org/jdf7fw2/vick
+
+国内快速下载（需要登录gitee）\
 https://gitee.com/jdf7fw2/vick
 
 # 严正声明
